@@ -1,0 +1,8 @@
+tuple1=(1,True,3.4,'daddy pig')
+print(tuple1)
+tuple2=(1,2,3,4,5,6,7,8,9)
+print(tuple2)
+tuple3=(1,2,3,4,5,6,7,8,9,9)
+print(tuple3)
+print(tuple3.count(9))
+print(tuple1[3:5])
